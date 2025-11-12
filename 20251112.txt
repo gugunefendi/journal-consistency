@@ -6,4 +6,4 @@ The video duration around 10 minutes.
 
 In this video I am explain default folder structure in Laravel and explain a folder parts in Laravel 12 including app, bootstrap, config, database and etc.
 
-After created this journal I will edit my video, cutting, adding some images and remove the unnecessary parts. 
+After write this journal I will edit my video, cutting, adding some images and remove the unnecessary parts. 
